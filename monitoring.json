@@ -1,1 +1,5 @@
-[{"id":1,"host":"141.95.234.19","connect":"141.95.234.19:1215","port":7777,"test":false},{"id":2,"host":"s2.whiterp.samp.itcloud.io","connect":"s2.whiterp.samp.itcloud.io:7777","port":7777,"test":false}]
+[{"id":1,
+"host":"141.95.234.19",
+"connect":"141.95.234.19:1215",
+"port":1215,
+"test":false},{"id":2,"host":"s2.whiterp.samp.itcloud.io","connect":"s2.whiterp.samp.itcloud.io:7777","port":7777,"test":false}]
