@@ -1,0 +1,17 @@
+{
+  "projectName": "BLAY RUSSIA",
+  "packageName": "com.blayrussia.online",
+  "webSite": "https://vk.com/blayrussia",
+  "vk": "https://vk.com/blayrussia",
+  "tikTok": "https://www.instagram.com/",
+  "instagram": "https://www.instagram.com/",
+  "telegram": "https://t.me/",
+  "supportPeople": "https://vk.com/blayrussia",
+  "filesFull": "https://whiteskidrow-samp-cdn.itcloud.io/cdn2/dats_1.zip",
+  "texdb_1": "https://whiteskidrow-samp-cdn.itcloud.io/cdn2/texdb_4oktbr.zip", 
+  "baseClient": "https://whiteskidrow-samp-cdn.itcloud.io/cdn2/client_12sent.apk",
+  "launcher": "https://whiteskidrow-samp-cdn.itcloud.io/cdn2/launch_money.apk",
+  "version": "1.1",
+  "gVersion": "1",
+  "cVersion": "2"
+}
