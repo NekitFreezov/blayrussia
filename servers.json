@@ -6,13 +6,11 @@
       "name": "RED",
       "online": 985
     }
-  ]
-  [
-   {
-      "color": "FF0000",
+    {
+      "color": "76ff03",
       "dopname": "(X2)",
       "maxonline": 1000,
-      "name": "RED",
+      "name": "GREEN",
       "online": 985
     }
   ]
