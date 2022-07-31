@@ -6,4 +6,25 @@
       "name": "RED",
       "online": 2
     }
+    {
+      "color": "FF0000",
+      "dopname": "",
+      "maxonline": 1000,
+      "name": "RED1",
+      "online": 2
+    }
+{
+      "color": "FF0000",
+      "dopname": "",
+      "maxonline": 1000,
+      "name": "RED2",
+      "online": 2
+    }
+{
+      "color": "FF0000",
+      "dopname": "",
+      "maxonline": 1000,
+      "name": "RED3",
+      "online": 2
+    }
   ]
