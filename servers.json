@@ -1,16 +1,16 @@
 [
    {
       "color": "FF0000",
-      "dopname": "(X2)",
+      "dopname": "(ЗБТ)",
       "maxonline": 1000,
       "name": "RED",
-      "online": 985
+      "online": 1
    },
    {
-      "color": "76ff03",
-      "dopname": "(X2)",
+      "color": "ff3d00",
+      "dopname": "(TEST)",
       "maxonline": 1000,
-      "name": "GREEN",
-      "online": 985
+      "name": "TEST SERVER",
+      "online": 0
     }
   ]
