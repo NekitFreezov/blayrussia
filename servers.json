@@ -4,13 +4,13 @@
       "dopname": "(ЗБТ)",
       "maxonline": 1000,
       "name": "RED",
-      "online": 1
+      "online": 555
    },
    {
       "color": "212121",
       "dopname": "(TEST)",
       "maxonline": 1000,
       "name": "TEST SERVER",
-      "online": 0
+      "online": 666
     }
   ]
